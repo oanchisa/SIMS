@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai&display=swap');
+body{
+    font-family: 'Noto Sans Thai', sans-serif;
+}
+.container{
+    min-height: 100vh;
+}
+.fa-pen-to-square, .fa-trash{
+    cursor: pointer;
+}
