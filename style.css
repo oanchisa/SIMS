@@ -8,3 +8,9 @@ body{
 .fa-pen-to-square, .fa-trash{
     cursor: pointer;
 }
+h1{
+    color: black;
+}
+h2{
+    color:rgb(from color r g b)
+}
